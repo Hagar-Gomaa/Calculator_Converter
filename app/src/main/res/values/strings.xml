@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator_Converter</string>
+    <string name="number_converter_Title">Number Converter</string>
+    <string name="hint_binary_number">Enter binary number</string>
+    <string name="hint_octal_number">Enter octal number</string>
+    <string name="hint_decimal_number">Enter decimal number</string>
+    <string name="hint_hexadecimal_number">Enter hexaDecimal number</string>
+</resources>
